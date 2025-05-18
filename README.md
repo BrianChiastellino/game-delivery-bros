@@ -42,7 +42,3 @@ Entregar el pedido en el menor tiempo posible, esquivando obstáculos como vehí
   
    ```bash   
    gradlew.bat desktop:run
-
-
-   
-

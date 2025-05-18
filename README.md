@@ -36,3 +36,13 @@ Entregar el pedido en el menor tiempo posible, esquivando obstáculos como vehí
    ```bash
    git clone https://github.com/BrianChiastellino/game-delivery-bros.git
    cd game-delivery-bros
+
+2. Compilar y ejecutar con Gradle Wrapper
+   Esto ejecutará la versión de escritorio del juego utilizando LibGDX.
+  
+   ```bash   
+   gradlew.bat desktop:run
+
+
+   
+
